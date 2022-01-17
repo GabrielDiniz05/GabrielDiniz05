@@ -3,7 +3,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything Java and Python
+- 🌱 I’m currently learning Java and Python
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
