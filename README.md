@@ -25,4 +25,4 @@
 <br />
 
 ---
-[gmail]
+[gmail]: gabriel.assisdiniz@gmail.com
