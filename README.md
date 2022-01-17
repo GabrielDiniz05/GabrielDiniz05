@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="test | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<img align="left" alt="test | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 <br />
 
@@ -25,4 +25,4 @@
 <br />
 
 ---
-[gmail]: https:/mail.google.com/
+
