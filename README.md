@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![Linkedin]](https://linkein.com)
+[![Linkedin]](https://linkedin.com)
 <img align="left" alt="test | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 <br />
