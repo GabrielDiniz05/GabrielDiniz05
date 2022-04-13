@@ -1,5 +1,11 @@
 
-### Hi there, I'm Gabriel 👋 
+## Hi there, I'm Gabriel 👋 
+
+<div align="center">
+  <a href="https://github.com/GabrielDiniz05">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiniz05&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## I'm a Student!!
 
@@ -21,9 +27,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
 
 ---
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
