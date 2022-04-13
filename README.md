@@ -1,9 +1,9 @@
 
 ## Hi there 👋, I'm Gabriel and i'm a Computer Science student!
 
-<div align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiniz05&layout=compact&langs_count=7&theme=dark"/>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiniz05&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br />
