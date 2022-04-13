@@ -1,5 +1,5 @@
 
-# Hi there, I'm Gabriel 👋 
+## Hi there, I'm Gabriel and i'm a Computer Science student! 👋 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDiniz05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
