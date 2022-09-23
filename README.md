@@ -11,7 +11,7 @@
 ## About me:
 
 - 🔭 I'm always in search of knowledge, trying to improve myself professionally and personally.
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning C#
 - ⚡ Fun fact: I love to play guitar
 
 <br />
